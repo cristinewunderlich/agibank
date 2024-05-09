@@ -24,3 +24,6 @@ yarn cypress open / npx cypress open
 yarn cypress run / npx cypress run
 ```
 4. Github Action
+```
+Cypress Tests
+```
