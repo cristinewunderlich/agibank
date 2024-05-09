@@ -1,3 +1,4 @@
+![poster](https://i0.wp.com/blogdoagi.com.br/wp-content/uploads/2024/05/IMAGEM-DO-BLOG.png?fit=1024%2C536&ssl=1)
 ## Sobre
 
 Repositório de teste técnico: Pesquisa no Blog do Agi (Agibank)
