@@ -1,0 +1,12 @@
+{
+  "name": "agibank",
+  "version": "1.0.0",
+  "description": "Teste técnico ilegra",
+  "main": "index.js",
+  "repository": "https://github.com/cristinewunderlich/agibank.git",
+  "author": "cristinewunderlich <cris.negresco@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
