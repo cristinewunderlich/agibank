@@ -1,14 +1,14 @@
 ![poster](https://i0.wp.com/blogdoagi.com.br/wp-content/uploads/2024/05/IMAGEM-DO-BLOG.png?fit=1024%2C536&ssl=1)
-## Sobre
+## :book:Sobre
 
 Repositório de teste técnico: Pesquisa no Blog do Agi (Agibank)
 
-## Stacks
+## :world_map:Stacks
 
 * Cypress
 * Javascript
 
-## Rodando
+## :computer: Rodando
 
 1. Clonar o repositório, instalar dependências
 ```
