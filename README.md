@@ -1,13 +1,13 @@
-Sobre
+:Sobre
 
 Repositório de teste técnico: Pesquisa no Blog do Agi (Agibank)
 
-Stacks
+:Stacks
 
 * Cypress
 * Javascript
 
-Rodando
+:Rodando
 
 1. Clonar o repositório, instalar dependências
 
