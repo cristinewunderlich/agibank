@@ -12,7 +12,7 @@ Repositório de teste técnico: Pesquisa no Blog do Agi (Agibank)
 
 1. Clonar o repositório, instalar dependências
 ```
-yarn / npm install
+yarn install / npm install
 ```
 
 2. Subir o Cypress UI
